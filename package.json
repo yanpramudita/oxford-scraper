@@ -1,0 +1,16 @@
+{
+  "name": "oxford-scraper",
+  "version": "0.1.0",
+  "description": "Script to scrape oxford dictionaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahadyan A. Pramudita",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
